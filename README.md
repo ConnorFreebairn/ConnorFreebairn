@@ -1,3 +1,14 @@
-### Hi there 👋
+### 👋 Greetings fellow human
 ---
-(![image](https://user-images.githubusercontent.com/3813156/127711046-2482a7da-bf97-47bf-bc8b-831202476632.png)
+
+![HAL9000 Not Responding Image](https://i.imgur.com/BvXeGR8.gif)
+
+
+
+```powershell
+$ContactDetails = @{
+    FirstName = 'Connor'
+    LastName = 'Freebairn'
+    Email = 'connor@freebairn.rocks'
+    GitHub = 'https://github.com/ConnorFreebairn/'
+}
