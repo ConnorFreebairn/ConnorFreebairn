@@ -8,5 +8,5 @@ $ContactDetails = @{
     FirstName = 'Connor'
     LastName = 'Freebairn'
     Email = 'connor@freebairn.rocks'
-    GitHub = 'https://github.com/ConnorFreebairn/'
+    GitHub = 'https://github.com/ConnorFreebairn'
 }
